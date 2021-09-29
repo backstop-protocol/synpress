@@ -1,3 +1,4 @@
+import 'cypress-xpath'
 import './commands';
 import { configure } from '@testing-library/cypress';
 

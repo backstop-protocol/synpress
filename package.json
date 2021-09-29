@@ -82,6 +82,7 @@
     },
     "devDependencies": {
         "@microsoft/eslint-formatter-sarif": "2.1.5",
+        "cypress-xpath": "^1.6.2",
         "npm-check-updates": "11.8.3",
         "release-it": "14.11.5"
     },
